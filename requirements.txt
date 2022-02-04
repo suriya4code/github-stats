@@ -4,8 +4,10 @@ tinycss
 cssselect
 pygal
 flask
+requests
 gunicorn==20.0.4
 h11==0.11.0
 httptools==0.1.1
 uvicorn==0.13.0
 uvloop==0.14.0
+
