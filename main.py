@@ -46,6 +46,6 @@ def draw_HalfPieChart():
 def welcome():
     return "Welcome !! Please use this try out this path in ulr = > /api/gituser/language/showPieChart/?username=suriya4code"
 
-# if __name__ == '__main__':
+if __name__ == '__main__':    
 # #     uvicorn.run(app)
-#     app.run(debug = True)
+    app.run(debug = True)
